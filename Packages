@@ -1,0 +1,32 @@
+Package: io.matchb0x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Matchb0x
+Installed-Size: 600
+Depends: mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/io.matchb0x_1.0_iphoneos-arm.deb
+Size: 300360
+MD5sum: 02c96c9419333109754cf7b644af1960
+SHA1: 0ba4ebe2d118c5e85a92eeae4023cffe4951a5f3
+SHA256: 327661f8b9839ea067715ca23f15622f8f18071b9d1bec800aa4353cdcf2f1ba
+Section: Tweaks
+Description: Register Tinder token with Airtable API
+Author: Matchb0x
+Name: Matchb0x
+
+Package: io.matchb0x
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Matchb0x
+Installed-Size: 600
+Depends: mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/io.matchb0x_1.0_iphoneos-arm64.deb
+Size: 300586
+MD5sum: d9269e09ea45ca3cfa83b7a3f4df65c7
+SHA1: 6ca4dd166a01f99d78b197de0226f5911946755c
+SHA256: b54306b60aa8b2095546c8a598175db5ea7f50c39ba326f237f2c5330332e6b0
+Section: Tweaks
+Description: Register Tinder token with Airtable API
+Author: Matchb0x
+Name: Matchb0x
+
